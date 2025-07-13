@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_kiparis_s">
+		<text>OTs-02 Kiparis</text>
+	</string>
+	<string id="st_wpn_kiparis_s_descr">
+		<text>The OTs-02 Kiparis automatic mechanism is powered by a free bolt recoil. Shots are fired from closed bolt, which increases the accuracy of fire. To increase stability of the weapon, a folding stock is used, which in the compact position is folded on top of the receiver. In the Zone, this weapon is not uncommon and usually used by bandits and loners who can't afford a better weapon.\n \n</text>
+	</string>
+
+	<string id="st_wpn_kiparis_m1">
+		<text>OTs-02 Kiparis Nonpro</text>
+	</string>
+	<string id="st_wpn_kiparis_m1_descr">
+		<text>The OTs-02 Kiparis automatic mechanism is powered by a free bolt recoil. Shots are fired from closed bolt, which increases the accuracy of fire. To increase stability of the weapon, a folding stock is used, which in the compact position is folded on top of the receiver. In the Zone, this weapon is not uncommon and usually used by bandits and loners who can't afford a better weapon. This model differs from the standard mainly in some simple attachments and slightly increased rate of fire.\n</text>
+	</string>
+	
+	<string id="st_wpn_kiparis_m2">
+		<text>OTs-02 Kiparis Obligor</text>
+	</string>
+	<string id="st_wpn_kiparis_m2_descr">
+		<text>The OTs-02 Kiparis automatic mechanism is powered by a free bolt recoil. Shots are fired from closed bolt, which increases the accuracy of fire. To increase stability of the weapon, a folding stock is used, which in the compact position is folded on top of the receiver. In the Zone, this weapon is not uncommon and usually used by bandits and loners who can't afford a better weapon. This model differs from the standard mainly in some simple attachments and slightly increased rate of fire. This model was made by Polymer for Duty faction. This model differs from the standard with a slightly increased rate of fire and it comes with a handcrafted Bakelite foregrip which increases recoil control.\n</text>
+	</string>
+	
+	<string id="st_wpn_kiparis_m3">
+		<text>OTs-02 Kiparis Zhmich</text>
+	</string>
+	<string id="st_wpn_kiparis_m3_descr">
+		<text>The OTs-02 Kiparis automatic mechanism is powered by a free bolt recoil. Shots are fired from closed bolt, which increases the accuracy of fire. To increase stability of the weapon, a folding stock is used, which in the compact position is folded on top of the receiver. In the Zone, this weapon is not uncommon and usually used by bandits and loners who can't afford a better weapon. This model differs from the standard mainly in some simple attachments and slightly increased rate of fire. This model was made by Polymer for Clear Sky faction. This model differs from the standard mainly in some simple attachments and slightly increased rate of fire. This model was made by Polymer for Duty faction. This model differs from the standard with a slightly increased rate of fire and it comes with a handcrafted Bakelite foregrip which increases recoil control.\n</text>
+	</string>
+
+	<string id="st_wpn_vz61_scorpion">
+		<text>Skorpion vz.61 </text>
+	</string>
+	<string id="st_wpn_vz61_scorpion_descr">
+		<text>The Skorpion vz. 61 was developed for use by security forces, such as the Czechoslovak Army as a personal sidearm for lower-ranking army staff, vehicle drivers, armoured vehicle personnel and special forces. Currently the weapon is in use by the armed forces of several countries and criminal organizations as a sidearm. While chambered for .32 ACP, newer models made their way into the Zone chambered for 9x19mm.\n</text>
+	</string>
+	
+	<string id="st_wpn_vz61_scorpion_m1">
+		<text>Skorpion vz.61 Improved</text>
+	</string>
+	<string id="st_wpn_vz61_scorpion_m1_descr">
+		<text>The Skorpion vz. 61 was developed for use by security forces, such as the Czechoslovak Army as a personal sidearm for lower-ranking army staff, vehicle drivers, armoured vehicle personnel and special forces. Currently the weapon is in use by the armed forces of several countries and criminal organizations as a sidearm. While chambered for .32 ACP, newer models made their way into the Zone chambered for 9x19mm.\n</text>
+	</string>
+	
+	<string id="st_wpn_vz61_scorpion_m2">
+		<text>Polymer's Skorpion vz.61</text>
+	</string>
+	<string id="st_wpn_vz61_scorpion_m2_descr">
+		<text>The Skorpion vz. 61 was developed for use by security forces, such as the Czechoslovak Army as a personal sidearm for lower-ranking army staff, vehicle drivers, armoured vehicle personnel and special forces. Currently the weapon is in use by the armed forces of several countries and criminal organizations as a sidearm. While chambered for .32 ACP, newer models made their way into the Zone chambered for 9x19mm.\n</text>
+	</string>	
+	
+	<string id="st_wpn_ak12_mono_com">
+        <text>AK-12 Preacher </text>
+    </string>
+    <string id="st_wpn_ak12_mono_com_descr">
+        <text>A rare find. Modified version of AK-12 2012, Mainly used by the Monolith squad commanders. Has three firing modes: automatic, single and three rounds.\n \n</text>
+    </string>
+
+  
+	<string id="st_mag_baskiparis_9x18_20">
+		<text>Small 9x18 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_20_descr">
+		<text>
+		Small 9x18 Kiparis Magazine with a capacity of 20 rounds.
+		</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_20">
+		<text>Small 9x19 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_20_descr">
+		<text>
+		Small 9x19 Kiparis Magazine with a capacity of 20 rounds.
+		</text>
+	</string>
+
+	<string id="st_mag_baskiparis_9x18_40">
+		<text>Standard 9x18 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_40_descr">
+		<text>
+		Standard 9x18 Kiparis Magazine with a capacity of 40 rounds.
+		</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_40">
+		<text>Standard 9x19 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_40_descr">
+		<text>
+		Standard 9x19 Kiparis Magazine with a capacity of 40 rounds.
+		</text>
+	</string>
+
+	<string id="st_mag_baskiparis_9x18_81">
+		<text>Extended 9x18 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_81_descr">
+		<text>
+		Extended 9x18 Kiparis Magazine with a capacity of 81 rounds.
+		</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_81">
+		<text>Extended 9x19 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_81_descr">
+		<text>
+		Extended 9x19 Kiparis Magazine with a capacity of 81 rounds.
+		</text>
+	</string>
+
+
+	<string id="st_mag_basvz61_9x18_30">
+		<text>Standard 9x18 VZ. 61 Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x18_30_descr">
+		<text>
+		Standard 9x18 Kiparis Magazine with a capacity of 30 rounds.
+		</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_30">
+		<text>Standard 9x19 VZ. 61 Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_30_descr">
+		<text>
+		Standard 9x19 Kiparis Magazine with a capacity of 30 rounds.
+		</text>
+	</string>
+
+	<string id="st_mag_basvz61_9x18_60">
+		<text>Extended 9x18 VZ. 61 Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x18_60_descr">
+		<text>
+		Extended 9x18 Kiparis Magazine with a capacity of 60 rounds.
+		</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_60">
+		<text>Extended 9x19 VZ. 61 Magazine</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_60_descr">
+		<text>
+		Extended 9x19 Kiparis Magazine with a capacity of 60 rounds.
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_uptacppsh">
+		<text>Bandolero Upgrade Kit for PPSh-41 </text>
+	</string>
+	<string id="st_addon_scope_uptacppsh_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILITY:\n \n%c[d_cyan] • %c[ui_gray_2]PPSh-41 \n \n%c[ui_gray_1]Set of components for PPSh-41 upgrade.\n \n%c[d_purple] • %c[ui_gray_2] The kit includes: the EKP-8-18 collimator sight and improved barrel casing (heat is removed faster), as a result of which it became possible to increase the rate of fire compared to the original. This upgrade is reversible.</text>
+	</string>
+
+	<string id="st_wpn_ppsh_bas_uptacppsh">
+		<text>PPSh-41 Bandolero</text>
+	</string>
+	<string id="st_wpn_ppsh_bas_uptacppsh_descr">
+		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. This model is fitted with a modernized heat shield that allowed to increase fire rate even more while maintaining durability.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] The tactical kit "Bandolero" is installed on this weapon\n
+		%c[d_purple] • %c[ui_gray_2] Integrated Axion Kobra EKP-8-18 reflex sight</text>
+	</string>	
+	
+	<string id="st_wpn_sr2_m2">
+    	<text>Mangun's SR-2M </text>
+  	</string>
+  	<string id="st_wpn_sr2_m2_descr">
+		<text> SR.2 "Veresk" is a Russian submachine gun (manufactured by TsNIITOCHMASH), designed to engage enemy personnel in close combat (at a distance of up to 200 m) using individual body armor. The main advantage of the SR-2 is its high firepower, high accuracy of fire and the destructive effect of a bullet at close range. This SR-2M was improved by Mangun. The improvements included: a lightweight bolt group that increases the rate of fire, a Magpul stock for better ergonomics, a picatinny rail that allows you to mount red dot/magnification sights and an LA5 laser Aim Module.\n </text>
+  	</string>
+	
+	<string id="st_wpn_ppsh_bas">
+		<text>PPSh-41</text>
+	</string>
+	<string id="st_wpn_ppsh_bas_descr">
+		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. They utilise 7.62x25mm cartridge.\n 
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Can be upgraded using a Tactical Kit.\n </text>
+	</string>
+</string_table>	

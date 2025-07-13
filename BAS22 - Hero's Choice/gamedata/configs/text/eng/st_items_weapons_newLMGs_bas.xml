@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_pkp_tac_siber">
+		<text>PKP Pecheneg Tactical</text>
+	</string>
+	<string id="st_wpn_pkp_tac_siber_descr">
+		<text>A lighter and improved modification of the PKP machine gun. Thanks to the short barrel, the model has improved ergonomics, which makes it more suitable for fighting in urban areas. The model has angled foregrip installed for better recoil control. In the Zone it is used mainly by the military and Mercenaries.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Zenit Perst-3 tactical device\n</text>
+	</string>
+	
+	<string id="st_wpn_pkm_zenit_shorty">
+		<text>PKM Shorty </text>
+	</string>
+	<string id="st_wpn_pkm_zenit_shorty_descr">
+		<text>A lighter and improved modification of the PKM machine gun in a body kit from the Zenitka company. Thanks to the short barrel, the model has improved ergonomics, which makes it more suitable for fighting in urban areas. The model has an angled foregrip installed for better recoil control. In the Zone it is used mainly by the military.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Zenit Perst-3 tactical device\n</text>
+	</string>
+	
+	<string id="st_wpn_pk_siber">
+    	<text>PK</text>
+  	</string>
+  	<string id="st_wpn_pk_siber_descr">
+		<text> The PK (Pulemyot Kalashnikova, or "Kalashnikov's machine gun"), is a belt-fed general-purpose machine gun, chambered for the 7.62?54mmR rimmed cartridge. Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969.\n</text>
+  	</string>	
+</string_table>	

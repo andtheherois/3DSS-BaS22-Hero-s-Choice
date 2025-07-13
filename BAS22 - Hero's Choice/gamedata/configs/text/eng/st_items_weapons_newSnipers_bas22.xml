@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_karabiner98k">
+		<text>Karabiner 98 Kurz</text>
+	</string>
+	<string id="st_wpn_karabiner98k_descr">
+		<text>During World War II, certain Karabiner 98k rifles were selected for their exceptional accuracy and fitted with the ZF39 telescopic sight. These rifles were used by Nazi Germany as sniper rifles. In skilled hands, they had an effective range of up to 1000 metres. \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Can be upgraded with the silencer adapter.\n 		
+		%c[d_purple] • %c[ui_gray_2] ZF-4 integrated scope\n</text>
+	</string>
+
+	<string id="st_wpn_karabiner98k_silen98">
+		<text>Karabiner 98 Kurz with silencer adapter</text>
+	</string>
+	<string id="st_wpn_karabiner98k_silen98_descr">
+		<text>During World War II, certain Karabiner 98k rifles were selected for their exceptional accuracy and fitted with the ZF39 telescopic sight. These rifles were used by Nazi Germany as sniper rifles. In skilled hands, they had an effective range of up to 1000 metres. \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] ZF-4 integrated scope.\n</text>
+	</string>
+
+	<string id="st_wpn_kar98_retrotac">
+		<text>Karabiner 98 Forest Hunter </text>
+	</string>
+	<string id="st_wpn_kar98_retrotac_descr">
+		<text>Modified version of the German WWII sniper rifle Mauser Karabiner 98k - another work of the Forester, known for his love for the restoration and modernization of old captured weapons of the WWII era. The original wooden stock has been slightly lightened; a handguard is installed on its front part, allowing the installation of an additional night sight. The rifle is equipped with an excellent sniper scope manufactured by March, Japan. According to the Forester, this rifle is more suitable for hunting intruders in the Red Forest than mutants.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] March Tactical with PN-23 nozzle \n</text>
+	</string>
+
+	<string id="st_wpn_rem700_mcmillan">
+		<text>Remington 700 McMillan</text>
+	</string>
+	<string id="st_wpn_rem700_mcmillan_descr">
+		<text>Model 700 rifles have been produced in the USA by Remington since 1962. It is possibly the most widely used bolt-action sniper and hunting rifle in the United States. It is the top product of Remington Arms. There are many variants of the rifle for different cartridges, however, the .338 Lapua Magnum cartridge was chosen for ammunition for this model for firing at long and extra-long distances. The rifle is fitted with a McMillan A5 stock, 26" PGW Defense C14 fluted barrel and muzzle brake compensator, as well as a Badger Ordanance Embedded Front Rail for additional night sights.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Schmidt&Bender PM II 3-12x50 with PN-23 nozzle \n</text>
+	</string>
+
+	<string id="st_wpn_rem700_aics">
+		<text>Remington 700 AICS</text>
+	</string>
+	<string id="st_wpn_rem700_aics_descr">
+		<text>Model 700 rifles have been produced in the USA by Remington since 1962. It is possibly the most widely used bolt-action sniper and hunting rifle in the United States. It is the top product of Remington Arms. There are many variants of the rifle for different cartridges, however, the .338 Lapua Magnum cartridge was chosen for ammunition for this model for firing at long and extra-long distances. The rifle is fitted with a AICS (Accuracy International Chassis Systems) stock, 22" PGW Defense C14 fluted barrel and muzzle brake compensator, as well as a Badger Ordanance Embedded Front Rail for additional night sights.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Schmidt&Bender PM II 3-12x50 with PN-23 nozzle \n</text>
+	</string>
+
+	<string id="st_addon_sil_g28">
+		<text>HK G28 B&T QD 7.62x51 sound suppressor </text>
+	</string>
+	<string id="st_addon_sil_g28_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILITY:\n \n%c[d_cyan] • %c[ui_gray_2]HK G28 7.62x51 marksman rifle (\n \n%c[ui_gray_1]A quick-detach 7.62x51 silencer manufactured by Brugger&Thomet. Fits the HK Prolonged flash hider.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+
+		<string id="st_addon_sil_timberwolf">
+		<text>PGW Defense Timberwolf .338 LM sound suppressor </text>
+	</string>
+	<string id="st_addon_sil_timberwolf_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILITY:\n \n%c[d_cyan] • %c[ui_gray_2]Remington 700 AICS , Remington 700 McMillan \n \n%c[ui_gray_1]Timberwolf is a silencer for .338 sniper rifles. Produced by the Canadian company PGW Defense.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+
+	
+</string_table>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_wpn_m4_skryaga">
+		<text>Skinflint's AR </text>
+	</string>
+	<string id="st_wpn_m4_skryaga_descr">
+		<text>Like Beard, Skryaga also decided to earn extra money by selling carbines in "his" body kit. The result was a robust, lightweight, and very ergonomic rifle based on the M4.\n</text>
+	</string>
+
+	<string id="st_wpn_ak12_mono_com">
+        <text>AK-12 Preacher </text>
+    </string>
+    <string id="st_wpn_ak12_mono_com_descr">
+        <text>A rare find. Modified version of AK-12 2012, mainly used by the Monolith squad commanders.\n \n
+			%c[0,255,255,255]UNIQUE: %c[0,250,250,0] Hyperburst fire mode
+		</text>
+    </string>
+
+	<string id="st_wpn_sig550_siber">
+		<text>SIG SG550 </text>
+	</string>
+	<string id="st_wpn_sig550_siber_descr">
+		<text>Renowned for its high production quality and good performance, the SG550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard.\n</text>
+	</string>
+	
+		<string id="st_wpn_sig550_tac_siber">
+		<text>SIG SG550 Tactical</text>
+	</string>
+	<string id="st_wpn_sig550_tac_siber_descr">
+		<text>Renowned for its high production quality and good performance, the SG550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard. This variant is modified with a railed hanguard allowing an underbarrel grenade launcher to be installed.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+	    %c[d_purple] • %c[ui_gray_2] Installed Upgrades: Tactical handguard, Vertical grip, AN/PEQ-16 laser aim module and tritium sights</text>
+	</string>
+
+	<string id="st_wpn_sig552_siber">
+		<text>SIG SG552 Commando </text>
+	</string>
+	<string id="st_wpn_sig552_siber_descr">
+		<text>The SG552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG550 family, which enhances its CQC capabilities.\n</text>
+	</string>
+
+	<string id="st_wpn_sig552_tac_siber">
+		<text>SIG SG552 Commando Tactical</text>
+	</string>
+	<string id="st_wpn_sig552_tac_siber_descr">
+		<text>The SG552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family, which enhances its CQC capabilities. This version is enhanced further with a foregrip for better recoil control and tritium sights for night time shooting.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+	    %c[d_purple] • %c[ui_gray_2] AN/PEQ-16 Laser Aim modul and Tritium sights</text>
+	</string>
+
+	<string id="st_wpn_sig552_isg_siber">
+		<text>SIG SG552 Commando ISG</text>
+	</string>
+	<string id="st_wpn_sig552_isg_siber_descr">
+		<text>The SG552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family, which enhances its CQC capabilities. This version is enhanced further with a horizontal foregrip providing great recoil control bonus and a modified gas system increasing fire rate.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+	    %c[d_purple] • %c[ui_gray_2] B.E. MEYERS MAWL-C1 tactical green laser aim module</text>
+	</string>	
+
+
+			<string id="st_wpn_g28">
+		<text>HK G28  Marksman Rifle </text>
+	</string>
+	<string id="st_wpn_g28_descr">
+		<text>The HK G28 rifle was developed specifically for the Bundeswehr as a support weapon for small infantry units. Despite several differences, the HK G28 is 75% interchangeable with the HK 417. This rifle is designed to shoot at distances inaccessible to standard 5.56mm assault rifles.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Schmidt and Bender PM II 3-12x50 scope and Aimpoint T1 included</text>
+	</string>
+
+
+
+		<string id="st_wpn_scar_l_tac">
+		<text>Scar-L CQB </text>
+	</string>
+	<string id="st_wpn_scar_l_tac_descr">
+		<text>The FN SCAR-L (Special Operation Forces Combat Assault Rifle - Light) assault rifle chambered in 5.56x45 NATO rounds, was adopted by US SOCOM (United States Special Operations Command) as the Mk 16. Features a side-folding polymer stock and a free-floating, cold hammer-forged Mil-Spec barrel with hardchromed bore. Fully-ambidextrous operating controls instantly adapt the SCAR to any user or any shooting position. Comes in black and flat dark earth.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] B.E. MEYERS MAWL-C1 tactical LAM</text>
+	</string>
+
+
+	
+</string_table>

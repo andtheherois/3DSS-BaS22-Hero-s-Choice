@@ -1,0 +1,50 @@
+-- Extension script for weapon_cover_tilt_positions.script file
+-- Open weapon_cover_tilt_positions.script file for instructions
+
+if weapon_cover_tilt_positions then
+
+	if not weapon_cover_tilt_positions.weapon_offsets then
+		weapon_cover_tilt_positions.weapon_offsets = {}
+	end
+	
+	local o = weapon_cover_tilt_positions.weapon_offsets
+
+
+	-- BaS 29.09
+	o["wpn_kiparis_m1"] = {
+		y = 0.15,
+		z = -0.085,
+	}
+	o["wpn_kiparis_m2"] = {
+		y = 0.33,
+		z = -0.07,
+	}
+	o["wpn_kiparis_m3"] = {
+		y = 0.33,
+		z = -0.07,
+	}
+	o["wpn_kiparis_s"] = {
+		y = 0.42,
+		z = 0.05,
+	}
+
+	o["wpn_vz61_scorpion"] = {
+		y = 0.15,
+		z = -0.085,
+	}
+	o["wpn_vz61_scorpion_m1"] = {
+		y = 0.15,
+		z = -0.085,
+	}
+	o["wpn_vz61_scorpion_m2"] = {
+		y = 0.33,
+		z = -0.07,
+	}
+	o["wpn_ppsh_bas_uptacppsh"] = {
+		y = 0.2,
+	}
+	o["wpn_sr2_m2"] = {
+		y = 0.15,
+	}
+
+end
